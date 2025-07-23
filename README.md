@@ -81,10 +81,21 @@
 🎓 **Software Engineering** — Minuto de Dios University (2021–2025)  
 🏅 Honor Roll Scholar (x2)
 
-📜 **Certificates**  
-- Cybersecurity Bootcamp (160h)  
-- G8 Program – Alura Latam  
-- Data Science – Coursera
+📜 **Certificates (G8 - Alura Latam / ONE)**  
+- Formación Lógica de Programación con JavaScript — *16/01/2025*  
+- Formación Principiante en Programación — *18/01/2025*  
+- Formación en Desarrollo Personal — *04/03/2025*  
+- Formación Aprende a Programar en Java con Orientación a Objetos — *02/07/2025*  
+- Formación Inteligencia Artificial y Java — *14/07/2025*  
+- Formación Java Web: crea aplicaciones utilizando Spring Boot — *14/07/2025*  
+- Formación Emprendimiento, Agilidad y Protagonismo Profesional — *14/07/2025*  
+- Formación Java Orientado a Objetos — *16/07/2025*  
+- Formación Java y Spring Framework — *23/07/2025*
+
+📚 Other Courses  
+- Cybersecurity Bootcamp (160h) – Talento Tech  
+- Data Science – Coursera (12h)
+
 
 ---
 
