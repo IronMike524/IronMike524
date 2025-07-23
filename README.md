@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Miguel Vélez</h1>
-<h3 align="center">Full Stack Developer | Software Engineer | AI Bot Developer | Product Owner</h3>
+<h3 align="center">Full Stack Developer | Software Engineer | Python Developer | Product Owner</h3>
 
 <p align="center">
   <a href="https://github.com/IronMike524"><img src="https://img.shields.io/github/followers/IronMike524?label=Follow&style=social"></a>
